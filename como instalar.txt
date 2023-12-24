@@ -1,0 +1,4 @@
+npx create-remix@latest
+
+#para iniciar
+npm run dev
